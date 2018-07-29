@@ -37,4 +37,7 @@ Drawings can be output for display by client code (not your code). You must supp
 
 Persist a drawing to and from a text stream. Create an interface for drawing and demonstrate test usage by a client.  
 
+Tip:
+-  It will be easier for you to explain your solution with the aid of a UML class diagram when you present.  
+
 ###
