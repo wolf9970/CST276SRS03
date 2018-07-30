@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CST276SRS03.dir/main.cpp.o  -o CST276SRS03 
