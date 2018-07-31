@@ -84,6 +84,30 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/GoFComposite/Client.cpp">
+			<Option target="CST276SRS03"/>
+		</Unit>
+		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/GoFComposite/Client.h">
+			<Option target="CST276SRS03"/>
+		</Unit>
+		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/GoFComposite/Component.cpp">
+			<Option target="CST276SRS03"/>
+		</Unit>
+		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/GoFComposite/Component.h">
+			<Option target="CST276SRS03"/>
+		</Unit>
+		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/GoFComposite/Composite.cpp">
+			<Option target="CST276SRS03"/>
+		</Unit>
+		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/GoFComposite/Composite.h">
+			<Option target="CST276SRS03"/>
+		</Unit>
+		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/GoFComposite/Leaf.cpp">
+			<Option target="CST276SRS03"/>
+		</Unit>
+		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/GoFComposite/Leaf.h">
+			<Option target="CST276SRS03"/>
+		</Unit>
 		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/main.cpp">
 			<Option target="CST276SRS03"/>
 		</Unit>

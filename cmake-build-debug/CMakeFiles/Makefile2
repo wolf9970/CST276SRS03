@@ -71,7 +71,7 @@ CMAKE_BINARY_DIR = /home/wolf/CLionProjects/CST276SRS03/cmake-build-debug
 CMakeFiles/CST276SRS03.dir/all:
 	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/depend
 	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target CST276SRS03"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6 "Built target CST276SRS03"
 .PHONY : CMakeFiles/CST276SRS03.dir/all
 
 # Include target in all.
@@ -81,7 +81,7 @@ all: CMakeFiles/CST276SRS03.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/CST276SRS03.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CST276SRS03.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/CST276SRS03.dir/rule

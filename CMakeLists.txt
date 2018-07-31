@@ -3,4 +3,4 @@ project(CST276SRS03)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(CST276SRS03 main.cpp)
+add_executable(CST276SRS03 main.cpp GoFComposite/Component.cpp GoFComposite/Component.h GoFComposite/Leaf.cpp GoFComposite/Leaf.h GoFComposite/Composite.cpp GoFComposite/Composite.h GoFComposite/Client.cpp GoFComposite/Client.h)

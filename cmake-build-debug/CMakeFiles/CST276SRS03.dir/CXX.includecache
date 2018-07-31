@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wolf/CLionProjects/CST276SRS03/GoFComposite/Component.h
+vector
+-
+algorithm
+-
+iostream
+-
+
+/home/wolf/CLionProjects/CST276SRS03/GoFComposite/Composite.h
+bits/uses_allocator.h
+-
+Component.h
+/home/wolf/CLionProjects/CST276SRS03/GoFComposite/Component.h
+
+/home/wolf/CLionProjects/CST276SRS03/GoFComposite/Leaf.h
+Component.h
+/home/wolf/CLionProjects/CST276SRS03/GoFComposite/Component.h
+
+/home/wolf/CLionProjects/CST276SRS03/main.cpp
+GoFComposite/Composite.h
+/home/wolf/CLionProjects/CST276SRS03/GoFComposite/Composite.h
+GoFComposite/Leaf.h
+/home/wolf/CLionProjects/CST276SRS03/GoFComposite/Leaf.h
+

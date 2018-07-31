@@ -70,17 +70,77 @@ CMakeFiles/CST276SRS03.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CST276SRS03.dir/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wolf/CLionProjects/CST276SRS03/main.cpp -o CMakeFiles/CST276SRS03.dir/main.cpp.s
 
+CMakeFiles/CST276SRS03.dir/GoFComposite/Component.cpp.o: CMakeFiles/CST276SRS03.dir/flags.make
+CMakeFiles/CST276SRS03.dir/GoFComposite/Component.cpp.o: ../GoFComposite/Component.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CST276SRS03.dir/GoFComposite/Component.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CST276SRS03.dir/GoFComposite/Component.cpp.o -c /home/wolf/CLionProjects/CST276SRS03/GoFComposite/Component.cpp
+
+CMakeFiles/CST276SRS03.dir/GoFComposite/Component.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CST276SRS03.dir/GoFComposite/Component.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wolf/CLionProjects/CST276SRS03/GoFComposite/Component.cpp > CMakeFiles/CST276SRS03.dir/GoFComposite/Component.cpp.i
+
+CMakeFiles/CST276SRS03.dir/GoFComposite/Component.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CST276SRS03.dir/GoFComposite/Component.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wolf/CLionProjects/CST276SRS03/GoFComposite/Component.cpp -o CMakeFiles/CST276SRS03.dir/GoFComposite/Component.cpp.s
+
+CMakeFiles/CST276SRS03.dir/GoFComposite/Leaf.cpp.o: CMakeFiles/CST276SRS03.dir/flags.make
+CMakeFiles/CST276SRS03.dir/GoFComposite/Leaf.cpp.o: ../GoFComposite/Leaf.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CST276SRS03.dir/GoFComposite/Leaf.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CST276SRS03.dir/GoFComposite/Leaf.cpp.o -c /home/wolf/CLionProjects/CST276SRS03/GoFComposite/Leaf.cpp
+
+CMakeFiles/CST276SRS03.dir/GoFComposite/Leaf.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CST276SRS03.dir/GoFComposite/Leaf.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wolf/CLionProjects/CST276SRS03/GoFComposite/Leaf.cpp > CMakeFiles/CST276SRS03.dir/GoFComposite/Leaf.cpp.i
+
+CMakeFiles/CST276SRS03.dir/GoFComposite/Leaf.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CST276SRS03.dir/GoFComposite/Leaf.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wolf/CLionProjects/CST276SRS03/GoFComposite/Leaf.cpp -o CMakeFiles/CST276SRS03.dir/GoFComposite/Leaf.cpp.s
+
+CMakeFiles/CST276SRS03.dir/GoFComposite/Composite.cpp.o: CMakeFiles/CST276SRS03.dir/flags.make
+CMakeFiles/CST276SRS03.dir/GoFComposite/Composite.cpp.o: ../GoFComposite/Composite.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CST276SRS03.dir/GoFComposite/Composite.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CST276SRS03.dir/GoFComposite/Composite.cpp.o -c /home/wolf/CLionProjects/CST276SRS03/GoFComposite/Composite.cpp
+
+CMakeFiles/CST276SRS03.dir/GoFComposite/Composite.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CST276SRS03.dir/GoFComposite/Composite.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wolf/CLionProjects/CST276SRS03/GoFComposite/Composite.cpp > CMakeFiles/CST276SRS03.dir/GoFComposite/Composite.cpp.i
+
+CMakeFiles/CST276SRS03.dir/GoFComposite/Composite.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CST276SRS03.dir/GoFComposite/Composite.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wolf/CLionProjects/CST276SRS03/GoFComposite/Composite.cpp -o CMakeFiles/CST276SRS03.dir/GoFComposite/Composite.cpp.s
+
+CMakeFiles/CST276SRS03.dir/GoFComposite/Client.cpp.o: CMakeFiles/CST276SRS03.dir/flags.make
+CMakeFiles/CST276SRS03.dir/GoFComposite/Client.cpp.o: ../GoFComposite/Client.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/CST276SRS03.dir/GoFComposite/Client.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CST276SRS03.dir/GoFComposite/Client.cpp.o -c /home/wolf/CLionProjects/CST276SRS03/GoFComposite/Client.cpp
+
+CMakeFiles/CST276SRS03.dir/GoFComposite/Client.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CST276SRS03.dir/GoFComposite/Client.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wolf/CLionProjects/CST276SRS03/GoFComposite/Client.cpp > CMakeFiles/CST276SRS03.dir/GoFComposite/Client.cpp.i
+
+CMakeFiles/CST276SRS03.dir/GoFComposite/Client.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CST276SRS03.dir/GoFComposite/Client.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wolf/CLionProjects/CST276SRS03/GoFComposite/Client.cpp -o CMakeFiles/CST276SRS03.dir/GoFComposite/Client.cpp.s
+
 # Object files for target CST276SRS03
 CST276SRS03_OBJECTS = \
-"CMakeFiles/CST276SRS03.dir/main.cpp.o"
+"CMakeFiles/CST276SRS03.dir/main.cpp.o" \
+"CMakeFiles/CST276SRS03.dir/GoFComposite/Component.cpp.o" \
+"CMakeFiles/CST276SRS03.dir/GoFComposite/Leaf.cpp.o" \
+"CMakeFiles/CST276SRS03.dir/GoFComposite/Composite.cpp.o" \
+"CMakeFiles/CST276SRS03.dir/GoFComposite/Client.cpp.o"
 
 # External object files for target CST276SRS03
 CST276SRS03_EXTERNAL_OBJECTS =
 
 CST276SRS03: CMakeFiles/CST276SRS03.dir/main.cpp.o
+CST276SRS03: CMakeFiles/CST276SRS03.dir/GoFComposite/Component.cpp.o
+CST276SRS03: CMakeFiles/CST276SRS03.dir/GoFComposite/Leaf.cpp.o
+CST276SRS03: CMakeFiles/CST276SRS03.dir/GoFComposite/Composite.cpp.o
+CST276SRS03: CMakeFiles/CST276SRS03.dir/GoFComposite/Client.cpp.o
 CST276SRS03: CMakeFiles/CST276SRS03.dir/build.make
 CST276SRS03: CMakeFiles/CST276SRS03.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable CST276SRS03"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable CST276SRS03"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/CST276SRS03.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

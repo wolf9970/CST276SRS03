@@ -123,6 +123,114 @@ CST276SRS03/fast:
 	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/build
 .PHONY : CST276SRS03/fast
 
+GoFComposite/Client.o: GoFComposite/Client.cpp.o
+
+.PHONY : GoFComposite/Client.o
+
+# target to build an object file
+GoFComposite/Client.cpp.o:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/GoFComposite/Client.cpp.o
+.PHONY : GoFComposite/Client.cpp.o
+
+GoFComposite/Client.i: GoFComposite/Client.cpp.i
+
+.PHONY : GoFComposite/Client.i
+
+# target to preprocess a source file
+GoFComposite/Client.cpp.i:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/GoFComposite/Client.cpp.i
+.PHONY : GoFComposite/Client.cpp.i
+
+GoFComposite/Client.s: GoFComposite/Client.cpp.s
+
+.PHONY : GoFComposite/Client.s
+
+# target to generate assembly for a file
+GoFComposite/Client.cpp.s:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/GoFComposite/Client.cpp.s
+.PHONY : GoFComposite/Client.cpp.s
+
+GoFComposite/Component.o: GoFComposite/Component.cpp.o
+
+.PHONY : GoFComposite/Component.o
+
+# target to build an object file
+GoFComposite/Component.cpp.o:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/GoFComposite/Component.cpp.o
+.PHONY : GoFComposite/Component.cpp.o
+
+GoFComposite/Component.i: GoFComposite/Component.cpp.i
+
+.PHONY : GoFComposite/Component.i
+
+# target to preprocess a source file
+GoFComposite/Component.cpp.i:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/GoFComposite/Component.cpp.i
+.PHONY : GoFComposite/Component.cpp.i
+
+GoFComposite/Component.s: GoFComposite/Component.cpp.s
+
+.PHONY : GoFComposite/Component.s
+
+# target to generate assembly for a file
+GoFComposite/Component.cpp.s:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/GoFComposite/Component.cpp.s
+.PHONY : GoFComposite/Component.cpp.s
+
+GoFComposite/Composite.o: GoFComposite/Composite.cpp.o
+
+.PHONY : GoFComposite/Composite.o
+
+# target to build an object file
+GoFComposite/Composite.cpp.o:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/GoFComposite/Composite.cpp.o
+.PHONY : GoFComposite/Composite.cpp.o
+
+GoFComposite/Composite.i: GoFComposite/Composite.cpp.i
+
+.PHONY : GoFComposite/Composite.i
+
+# target to preprocess a source file
+GoFComposite/Composite.cpp.i:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/GoFComposite/Composite.cpp.i
+.PHONY : GoFComposite/Composite.cpp.i
+
+GoFComposite/Composite.s: GoFComposite/Composite.cpp.s
+
+.PHONY : GoFComposite/Composite.s
+
+# target to generate assembly for a file
+GoFComposite/Composite.cpp.s:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/GoFComposite/Composite.cpp.s
+.PHONY : GoFComposite/Composite.cpp.s
+
+GoFComposite/Leaf.o: GoFComposite/Leaf.cpp.o
+
+.PHONY : GoFComposite/Leaf.o
+
+# target to build an object file
+GoFComposite/Leaf.cpp.o:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/GoFComposite/Leaf.cpp.o
+.PHONY : GoFComposite/Leaf.cpp.o
+
+GoFComposite/Leaf.i: GoFComposite/Leaf.cpp.i
+
+.PHONY : GoFComposite/Leaf.i
+
+# target to preprocess a source file
+GoFComposite/Leaf.cpp.i:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/GoFComposite/Leaf.cpp.i
+.PHONY : GoFComposite/Leaf.cpp.i
+
+GoFComposite/Leaf.s: GoFComposite/Leaf.cpp.s
+
+.PHONY : GoFComposite/Leaf.s
+
+# target to generate assembly for a file
+GoFComposite/Leaf.cpp.s:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/GoFComposite/Leaf.cpp.s
+.PHONY : GoFComposite/Leaf.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +267,18 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... CST276SRS03"
+	@echo "... GoFComposite/Client.o"
+	@echo "... GoFComposite/Client.i"
+	@echo "... GoFComposite/Client.s"
+	@echo "... GoFComposite/Component.o"
+	@echo "... GoFComposite/Component.i"
+	@echo "... GoFComposite/Component.s"
+	@echo "... GoFComposite/Composite.o"
+	@echo "... GoFComposite/Composite.i"
+	@echo "... GoFComposite/Composite.s"
+	@echo "... GoFComposite/Leaf.o"
+	@echo "... GoFComposite/Leaf.i"
+	@echo "... GoFComposite/Leaf.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
