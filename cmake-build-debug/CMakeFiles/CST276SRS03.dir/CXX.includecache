@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+/home/wolf/CLionProjects/CST276SRS03/GoFComposite/Component.cpp
+Component.h
+/home/wolf/CLionProjects/CST276SRS03/GoFComposite/Component.h
+
 /home/wolf/CLionProjects/CST276SRS03/GoFComposite/Component.h
 vector
 -
@@ -13,12 +17,16 @@ algorithm
 -
 iostream
 -
+stdexcept
+-
 
 /home/wolf/CLionProjects/CST276SRS03/GoFComposite/Composite.h
-bits/uses_allocator.h
--
 Component.h
 /home/wolf/CLionProjects/CST276SRS03/GoFComposite/Component.h
+
+/home/wolf/CLionProjects/CST276SRS03/GoFComposite/Leaf.cpp
+Leaf.h
+/home/wolf/CLionProjects/CST276SRS03/GoFComposite/Leaf.h
 
 /home/wolf/CLionProjects/CST276SRS03/GoFComposite/Leaf.h
 Component.h

@@ -5,12 +5,11 @@
 #ifndef CST276SRS03_COMPOSITE_H
 #define CST276SRS03_COMPOSITE_H
 
-#include <bits/uses_allocator.h>
 #include "Component.h"
-
 
 class Composite : public Component
 {
+
 private:
 
     std::vector<Component*> children_;
@@ -32,16 +31,14 @@ public:
 
     void Remove(Component* component) override
     {
-        children_.erase(std::remove(children_.begin(), children_.end(), component), children_.end());
+            children_.erase(std::remove(children_.begin(), children_.end(), component), children_.end());
     }
 
-    void GetChild(int child) override
+    void GetChild(int child) const override
     {
-        //get child
+        return children_.at(child)->Operation();
     }
+
 };
-
-
-
 
 #endif //CST276SRS03_COMPOSITE_H

@@ -231,6 +231,87 @@ GoFComposite/Leaf.cpp.s:
 	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/GoFComposite/Leaf.cpp.s
 .PHONY : GoFComposite/Leaf.cpp.s
 
+GoFFactoryMethod/ConcreteCreator.o: GoFFactoryMethod/ConcreteCreator.cpp.o
+
+.PHONY : GoFFactoryMethod/ConcreteCreator.o
+
+# target to build an object file
+GoFFactoryMethod/ConcreteCreator.cpp.o:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/GoFFactoryMethod/ConcreteCreator.cpp.o
+.PHONY : GoFFactoryMethod/ConcreteCreator.cpp.o
+
+GoFFactoryMethod/ConcreteCreator.i: GoFFactoryMethod/ConcreteCreator.cpp.i
+
+.PHONY : GoFFactoryMethod/ConcreteCreator.i
+
+# target to preprocess a source file
+GoFFactoryMethod/ConcreteCreator.cpp.i:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/GoFFactoryMethod/ConcreteCreator.cpp.i
+.PHONY : GoFFactoryMethod/ConcreteCreator.cpp.i
+
+GoFFactoryMethod/ConcreteCreator.s: GoFFactoryMethod/ConcreteCreator.cpp.s
+
+.PHONY : GoFFactoryMethod/ConcreteCreator.s
+
+# target to generate assembly for a file
+GoFFactoryMethod/ConcreteCreator.cpp.s:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/GoFFactoryMethod/ConcreteCreator.cpp.s
+.PHONY : GoFFactoryMethod/ConcreteCreator.cpp.s
+
+GoFFactoryMethod/ConcreteProduct.o: GoFFactoryMethod/ConcreteProduct.cpp.o
+
+.PHONY : GoFFactoryMethod/ConcreteProduct.o
+
+# target to build an object file
+GoFFactoryMethod/ConcreteProduct.cpp.o:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/GoFFactoryMethod/ConcreteProduct.cpp.o
+.PHONY : GoFFactoryMethod/ConcreteProduct.cpp.o
+
+GoFFactoryMethod/ConcreteProduct.i: GoFFactoryMethod/ConcreteProduct.cpp.i
+
+.PHONY : GoFFactoryMethod/ConcreteProduct.i
+
+# target to preprocess a source file
+GoFFactoryMethod/ConcreteProduct.cpp.i:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/GoFFactoryMethod/ConcreteProduct.cpp.i
+.PHONY : GoFFactoryMethod/ConcreteProduct.cpp.i
+
+GoFFactoryMethod/ConcreteProduct.s: GoFFactoryMethod/ConcreteProduct.cpp.s
+
+.PHONY : GoFFactoryMethod/ConcreteProduct.s
+
+# target to generate assembly for a file
+GoFFactoryMethod/ConcreteProduct.cpp.s:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/GoFFactoryMethod/ConcreteProduct.cpp.s
+.PHONY : GoFFactoryMethod/ConcreteProduct.cpp.s
+
+GoFFactoryMethod/Creator.o: GoFFactoryMethod/Creator.cpp.o
+
+.PHONY : GoFFactoryMethod/Creator.o
+
+# target to build an object file
+GoFFactoryMethod/Creator.cpp.o:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/GoFFactoryMethod/Creator.cpp.o
+.PHONY : GoFFactoryMethod/Creator.cpp.o
+
+GoFFactoryMethod/Creator.i: GoFFactoryMethod/Creator.cpp.i
+
+.PHONY : GoFFactoryMethod/Creator.i
+
+# target to preprocess a source file
+GoFFactoryMethod/Creator.cpp.i:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/GoFFactoryMethod/Creator.cpp.i
+.PHONY : GoFFactoryMethod/Creator.cpp.i
+
+GoFFactoryMethod/Creator.s: GoFFactoryMethod/Creator.cpp.s
+
+.PHONY : GoFFactoryMethod/Creator.s
+
+# target to generate assembly for a file
+GoFFactoryMethod/Creator.cpp.s:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/GoFFactoryMethod/Creator.cpp.s
+.PHONY : GoFFactoryMethod/Creator.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -279,6 +360,15 @@ help:
 	@echo "... GoFComposite/Leaf.o"
 	@echo "... GoFComposite/Leaf.i"
 	@echo "... GoFComposite/Leaf.s"
+	@echo "... GoFFactoryMethod/ConcreteCreator.o"
+	@echo "... GoFFactoryMethod/ConcreteCreator.i"
+	@echo "... GoFFactoryMethod/ConcreteCreator.s"
+	@echo "... GoFFactoryMethod/ConcreteProduct.o"
+	@echo "... GoFFactoryMethod/ConcreteProduct.i"
+	@echo "... GoFFactoryMethod/ConcreteProduct.s"
+	@echo "... GoFFactoryMethod/Creator.o"
+	@echo "... GoFFactoryMethod/Creator.i"
+	@echo "... GoFFactoryMethod/Creator.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
