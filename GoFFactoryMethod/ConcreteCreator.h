@@ -9,7 +9,10 @@
 
 class ConcreteCreator : public Creator
 {
-
+    Product* FactoryMethod() override
+    {
+        return new ConcreteProduct;
+    }
 };
 
 

@@ -6,10 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/home/wolf/CLionProjects/CST276SRS03/GoFComposite/Component.cpp
-Component.h
-/home/wolf/CLionProjects/CST276SRS03/GoFComposite/Component.h
-
 /home/wolf/CLionProjects/CST276SRS03/GoFComposite/Component.h
 vector
 -
@@ -24,17 +20,41 @@ stdexcept
 Component.h
 /home/wolf/CLionProjects/CST276SRS03/GoFComposite/Component.h
 
-/home/wolf/CLionProjects/CST276SRS03/GoFComposite/Leaf.cpp
-Leaf.h
-/home/wolf/CLionProjects/CST276SRS03/GoFComposite/Leaf.h
-
 /home/wolf/CLionProjects/CST276SRS03/GoFComposite/Leaf.h
 Component.h
 /home/wolf/CLionProjects/CST276SRS03/GoFComposite/Component.h
+
+/home/wolf/CLionProjects/CST276SRS03/GoFFactoryMethod/ConcreteCreator.cpp
+ConcreteCreator.h
+/home/wolf/CLionProjects/CST276SRS03/GoFFactoryMethod/ConcreteCreator.h
+
+/home/wolf/CLionProjects/CST276SRS03/GoFFactoryMethod/ConcreteCreator.h
+Creator.h
+/home/wolf/CLionProjects/CST276SRS03/GoFFactoryMethod/Creator.h
+
+/home/wolf/CLionProjects/CST276SRS03/GoFFactoryMethod/ConcreteProduct.h
+Product.h
+/home/wolf/CLionProjects/CST276SRS03/GoFFactoryMethod/Product.h
+
+/home/wolf/CLionProjects/CST276SRS03/GoFFactoryMethod/Creator.cpp
+Creator.h
+/home/wolf/CLionProjects/CST276SRS03/GoFFactoryMethod/Creator.h
+
+/home/wolf/CLionProjects/CST276SRS03/GoFFactoryMethod/Creator.h
+ConcreteProduct.h
+/home/wolf/CLionProjects/CST276SRS03/GoFFactoryMethod/ConcreteProduct.h
+
+/home/wolf/CLionProjects/CST276SRS03/GoFFactoryMethod/Product.h
+iostream
+-
 
 /home/wolf/CLionProjects/CST276SRS03/main.cpp
 GoFComposite/Composite.h
 /home/wolf/CLionProjects/CST276SRS03/GoFComposite/Composite.h
 GoFComposite/Leaf.h
 /home/wolf/CLionProjects/CST276SRS03/GoFComposite/Leaf.h
+GoFFactoryMethod/ConcreteProduct.h
+/home/wolf/CLionProjects/CST276SRS03/GoFFactoryMethod/ConcreteProduct.h
+GoFFactoryMethod/ConcreteCreator.h
+/home/wolf/CLionProjects/CST276SRS03/GoFFactoryMethod/ConcreteCreator.h
 

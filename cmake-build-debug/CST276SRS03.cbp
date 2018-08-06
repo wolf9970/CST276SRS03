@@ -114,9 +114,6 @@
 		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/GoFFactoryMethod/ConcreteCreator.h">
 			<Option target="CST276SRS03"/>
 		</Unit>
-		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/GoFFactoryMethod/ConcreteProduct.cpp">
-			<Option target="CST276SRS03"/>
-		</Unit>
 		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/GoFFactoryMethod/ConcreteProduct.h">
 			<Option target="CST276SRS03"/>
 		</Unit>

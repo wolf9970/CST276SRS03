@@ -6,7 +6,6 @@ file(REMOVE_RECURSE
   "CMakeFiles/CST276SRS03.dir/GoFComposite/Client.cpp.o"
   "CMakeFiles/CST276SRS03.dir/GoFFactoryMethod/Creator.cpp.o"
   "CMakeFiles/CST276SRS03.dir/GoFFactoryMethod/ConcreteCreator.cpp.o"
-  "CMakeFiles/CST276SRS03.dir/GoFFactoryMethod/ConcreteProduct.cpp.o"
   "CST276SRS03.pdb"
   "CST276SRS03"
 )

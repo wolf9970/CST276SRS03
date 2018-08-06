@@ -1,5 +1,7 @@
 #include "GoFComposite/Composite.h"
 #include "GoFComposite/Leaf.h"
+#include "GoFFactoryMethod/ConcreteProduct.h"
+#include "GoFFactoryMethod/ConcreteCreator.h"
 
 int main()
 {
@@ -27,6 +29,10 @@ int main()
     std::cout << std::endl;
     c1->Add(c2);
     c1->Operation();
+    std::cout << std::endl;
+
+    ConcreteCreator creator;
+    creator.AnOperation();
 
     return 0;
 }

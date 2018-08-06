@@ -258,33 +258,6 @@ GoFFactoryMethod/ConcreteCreator.cpp.s:
 	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/GoFFactoryMethod/ConcreteCreator.cpp.s
 .PHONY : GoFFactoryMethod/ConcreteCreator.cpp.s
 
-GoFFactoryMethod/ConcreteProduct.o: GoFFactoryMethod/ConcreteProduct.cpp.o
-
-.PHONY : GoFFactoryMethod/ConcreteProduct.o
-
-# target to build an object file
-GoFFactoryMethod/ConcreteProduct.cpp.o:
-	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/GoFFactoryMethod/ConcreteProduct.cpp.o
-.PHONY : GoFFactoryMethod/ConcreteProduct.cpp.o
-
-GoFFactoryMethod/ConcreteProduct.i: GoFFactoryMethod/ConcreteProduct.cpp.i
-
-.PHONY : GoFFactoryMethod/ConcreteProduct.i
-
-# target to preprocess a source file
-GoFFactoryMethod/ConcreteProduct.cpp.i:
-	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/GoFFactoryMethod/ConcreteProduct.cpp.i
-.PHONY : GoFFactoryMethod/ConcreteProduct.cpp.i
-
-GoFFactoryMethod/ConcreteProduct.s: GoFFactoryMethod/ConcreteProduct.cpp.s
-
-.PHONY : GoFFactoryMethod/ConcreteProduct.s
-
-# target to generate assembly for a file
-GoFFactoryMethod/ConcreteProduct.cpp.s:
-	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/GoFFactoryMethod/ConcreteProduct.cpp.s
-.PHONY : GoFFactoryMethod/ConcreteProduct.cpp.s
-
 GoFFactoryMethod/Creator.o: GoFFactoryMethod/Creator.cpp.o
 
 .PHONY : GoFFactoryMethod/Creator.o
@@ -363,9 +336,6 @@ help:
 	@echo "... GoFFactoryMethod/ConcreteCreator.o"
 	@echo "... GoFFactoryMethod/ConcreteCreator.i"
 	@echo "... GoFFactoryMethod/ConcreteCreator.s"
-	@echo "... GoFFactoryMethod/ConcreteProduct.o"
-	@echo "... GoFFactoryMethod/ConcreteProduct.i"
-	@echo "... GoFFactoryMethod/ConcreteProduct.s"
 	@echo "... GoFFactoryMethod/Creator.o"
 	@echo "... GoFFactoryMethod/Creator.i"
 	@echo "... GoFFactoryMethod/Creator.s"

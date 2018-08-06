@@ -19,10 +19,6 @@ CMakeFiles/CST276SRS03.dir/GoFFactoryMethod/ConcreteCreator.cpp.o
  /home/wolf/CLionProjects/CST276SRS03/GoFFactoryMethod/ConcreteProduct.h
  /home/wolf/CLionProjects/CST276SRS03/GoFFactoryMethod/Creator.h
  /home/wolf/CLionProjects/CST276SRS03/GoFFactoryMethod/Product.h
-CMakeFiles/CST276SRS03.dir/GoFFactoryMethod/ConcreteProduct.cpp.o
- /home/wolf/CLionProjects/CST276SRS03/GoFFactoryMethod/ConcreteProduct.cpp
- /home/wolf/CLionProjects/CST276SRS03/GoFFactoryMethod/ConcreteProduct.h
- /home/wolf/CLionProjects/CST276SRS03/GoFFactoryMethod/Product.h
 CMakeFiles/CST276SRS03.dir/GoFFactoryMethod/Creator.cpp.o
  /home/wolf/CLionProjects/CST276SRS03/GoFFactoryMethod/ConcreteProduct.h
  /home/wolf/CLionProjects/CST276SRS03/GoFFactoryMethod/Creator.cpp
@@ -32,4 +28,8 @@ CMakeFiles/CST276SRS03.dir/main.cpp.o
  /home/wolf/CLionProjects/CST276SRS03/GoFComposite/Component.h
  /home/wolf/CLionProjects/CST276SRS03/GoFComposite/Composite.h
  /home/wolf/CLionProjects/CST276SRS03/GoFComposite/Leaf.h
+ /home/wolf/CLionProjects/CST276SRS03/GoFFactoryMethod/ConcreteCreator.h
+ /home/wolf/CLionProjects/CST276SRS03/GoFFactoryMethod/ConcreteProduct.h
+ /home/wolf/CLionProjects/CST276SRS03/GoFFactoryMethod/Creator.h
+ /home/wolf/CLionProjects/CST276SRS03/GoFFactoryMethod/Product.h
  /home/wolf/CLionProjects/CST276SRS03/main.cpp
