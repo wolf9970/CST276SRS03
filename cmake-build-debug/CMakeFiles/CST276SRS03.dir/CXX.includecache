@@ -34,10 +34,6 @@ ShapeFactory.h
 Shape.h
 /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Shape.h
 
-/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/RectangleFactory.cpp
-RectangleFactory.h
-/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/RectangleFactory.h
-
 /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/RectangleFactory.h
 ShapeFactory.h
 /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/ShapeFactory.h

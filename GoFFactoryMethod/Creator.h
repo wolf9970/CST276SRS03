@@ -14,11 +14,10 @@ class Creator
 public:
     virtual Product* FactoryMethod() = 0;
 
-    Product* AnOperation()
+    void AnOperation()
     {
         Product* product_;
         product_ = FactoryMethod();
-        return product_;
     }
 
     virtual ~Creator() = 0;

@@ -17,9 +17,9 @@ public:
 
     }
 
-    void Add(Component* component) override {}
-    void Remove(Component* component) override {}
-    void GetChild(int child) const override {}
+    void Add(Component* component) final {}
+    void Remove(Component* component) final {}
+    void GetChild(int child) const final {}
 
 };
 

@@ -6,5 +6,8 @@
 
 int main()
 {
+    auto* circleFactory{ new CircleFactory };
+    auto* myCircle = circleFactory->CreateShape();
+    
     return 0;
 }
