@@ -4,6 +4,18 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Circle.cpp" "/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles/CST276SRS03.dir/CompositeFactory/Circle.cpp.o"
+  "/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/CircleFactory.cpp" "/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles/CST276SRS03.dir/CompositeFactory/CircleFactory.cpp.o"
+  "/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/CollectionOfShapes.cpp" "/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles/CST276SRS03.dir/CompositeFactory/CollectionOfShapes.cpp.o"
+  "/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Drawing.cpp" "/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles/CST276SRS03.dir/CompositeFactory/Drawing.cpp.o"
+  "/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Line.cpp" "/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles/CST276SRS03.dir/CompositeFactory/Line.cpp.o"
+  "/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/LineFactory.cpp" "/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles/CST276SRS03.dir/CompositeFactory/LineFactory.cpp.o"
+  "/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Polygon.cpp" "/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles/CST276SRS03.dir/CompositeFactory/Polygon.cpp.o"
+  "/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/PolygonFactory.cpp" "/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles/CST276SRS03.dir/CompositeFactory/PolygonFactory.cpp.o"
+  "/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Rectangle.cpp" "/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles/CST276SRS03.dir/CompositeFactory/Rectangle.cpp.o"
+  "/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/RectangleFactory.cpp" "/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles/CST276SRS03.dir/CompositeFactory/RectangleFactory.cpp.o"
+  "/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Shape.cpp" "/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles/CST276SRS03.dir/CompositeFactory/Shape.cpp.o"
+  "/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/ShapeFactory.cpp" "/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles/CST276SRS03.dir/CompositeFactory/ShapeFactory.cpp.o"
   "/home/wolf/CLionProjects/CST276SRS03/GoFComposite/Client.cpp" "/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles/CST276SRS03.dir/GoFComposite/Client.cpp.o"
   "/home/wolf/CLionProjects/CST276SRS03/GoFComposite/Component.cpp" "/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles/CST276SRS03.dir/GoFComposite/Component.cpp.o"
   "/home/wolf/CLionProjects/CST276SRS03/GoFComposite/Composite.cpp" "/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles/CST276SRS03.dir/GoFComposite/Composite.cpp.o"

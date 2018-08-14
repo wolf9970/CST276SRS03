@@ -148,6 +148,162 @@ CMakeFiles/CST276SRS03.dir/GoFFactoryMethod/ConcreteCreator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CST276SRS03.dir/GoFFactoryMethod/ConcreteCreator.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wolf/CLionProjects/CST276SRS03/GoFFactoryMethod/ConcreteCreator.cpp -o CMakeFiles/CST276SRS03.dir/GoFFactoryMethod/ConcreteCreator.cpp.s
 
+CMakeFiles/CST276SRS03.dir/CompositeFactory/ShapeFactory.cpp.o: CMakeFiles/CST276SRS03.dir/flags.make
+CMakeFiles/CST276SRS03.dir/CompositeFactory/ShapeFactory.cpp.o: ../CompositeFactory/ShapeFactory.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/CST276SRS03.dir/CompositeFactory/ShapeFactory.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CST276SRS03.dir/CompositeFactory/ShapeFactory.cpp.o -c /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/ShapeFactory.cpp
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/ShapeFactory.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CST276SRS03.dir/CompositeFactory/ShapeFactory.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/ShapeFactory.cpp > CMakeFiles/CST276SRS03.dir/CompositeFactory/ShapeFactory.cpp.i
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/ShapeFactory.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CST276SRS03.dir/CompositeFactory/ShapeFactory.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/ShapeFactory.cpp -o CMakeFiles/CST276SRS03.dir/CompositeFactory/ShapeFactory.cpp.s
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/Shape.cpp.o: CMakeFiles/CST276SRS03.dir/flags.make
+CMakeFiles/CST276SRS03.dir/CompositeFactory/Shape.cpp.o: ../CompositeFactory/Shape.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/CST276SRS03.dir/CompositeFactory/Shape.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CST276SRS03.dir/CompositeFactory/Shape.cpp.o -c /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Shape.cpp
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/Shape.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CST276SRS03.dir/CompositeFactory/Shape.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Shape.cpp > CMakeFiles/CST276SRS03.dir/CompositeFactory/Shape.cpp.i
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/Shape.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CST276SRS03.dir/CompositeFactory/Shape.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Shape.cpp -o CMakeFiles/CST276SRS03.dir/CompositeFactory/Shape.cpp.s
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/Circle.cpp.o: CMakeFiles/CST276SRS03.dir/flags.make
+CMakeFiles/CST276SRS03.dir/CompositeFactory/Circle.cpp.o: ../CompositeFactory/Circle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/CST276SRS03.dir/CompositeFactory/Circle.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CST276SRS03.dir/CompositeFactory/Circle.cpp.o -c /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Circle.cpp
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/Circle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CST276SRS03.dir/CompositeFactory/Circle.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Circle.cpp > CMakeFiles/CST276SRS03.dir/CompositeFactory/Circle.cpp.i
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/Circle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CST276SRS03.dir/CompositeFactory/Circle.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Circle.cpp -o CMakeFiles/CST276SRS03.dir/CompositeFactory/Circle.cpp.s
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/Rectangle.cpp.o: CMakeFiles/CST276SRS03.dir/flags.make
+CMakeFiles/CST276SRS03.dir/CompositeFactory/Rectangle.cpp.o: ../CompositeFactory/Rectangle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/CST276SRS03.dir/CompositeFactory/Rectangle.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CST276SRS03.dir/CompositeFactory/Rectangle.cpp.o -c /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Rectangle.cpp
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/Rectangle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CST276SRS03.dir/CompositeFactory/Rectangle.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Rectangle.cpp > CMakeFiles/CST276SRS03.dir/CompositeFactory/Rectangle.cpp.i
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/Rectangle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CST276SRS03.dir/CompositeFactory/Rectangle.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Rectangle.cpp -o CMakeFiles/CST276SRS03.dir/CompositeFactory/Rectangle.cpp.s
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/Polygon.cpp.o: CMakeFiles/CST276SRS03.dir/flags.make
+CMakeFiles/CST276SRS03.dir/CompositeFactory/Polygon.cpp.o: ../CompositeFactory/Polygon.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/CST276SRS03.dir/CompositeFactory/Polygon.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CST276SRS03.dir/CompositeFactory/Polygon.cpp.o -c /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Polygon.cpp
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/Polygon.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CST276SRS03.dir/CompositeFactory/Polygon.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Polygon.cpp > CMakeFiles/CST276SRS03.dir/CompositeFactory/Polygon.cpp.i
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/Polygon.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CST276SRS03.dir/CompositeFactory/Polygon.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Polygon.cpp -o CMakeFiles/CST276SRS03.dir/CompositeFactory/Polygon.cpp.s
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/CircleFactory.cpp.o: CMakeFiles/CST276SRS03.dir/flags.make
+CMakeFiles/CST276SRS03.dir/CompositeFactory/CircleFactory.cpp.o: ../CompositeFactory/CircleFactory.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/CST276SRS03.dir/CompositeFactory/CircleFactory.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CST276SRS03.dir/CompositeFactory/CircleFactory.cpp.o -c /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/CircleFactory.cpp
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/CircleFactory.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CST276SRS03.dir/CompositeFactory/CircleFactory.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/CircleFactory.cpp > CMakeFiles/CST276SRS03.dir/CompositeFactory/CircleFactory.cpp.i
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/CircleFactory.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CST276SRS03.dir/CompositeFactory/CircleFactory.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/CircleFactory.cpp -o CMakeFiles/CST276SRS03.dir/CompositeFactory/CircleFactory.cpp.s
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/RectangleFactory.cpp.o: CMakeFiles/CST276SRS03.dir/flags.make
+CMakeFiles/CST276SRS03.dir/CompositeFactory/RectangleFactory.cpp.o: ../CompositeFactory/RectangleFactory.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/CST276SRS03.dir/CompositeFactory/RectangleFactory.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CST276SRS03.dir/CompositeFactory/RectangleFactory.cpp.o -c /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/RectangleFactory.cpp
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/RectangleFactory.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CST276SRS03.dir/CompositeFactory/RectangleFactory.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/RectangleFactory.cpp > CMakeFiles/CST276SRS03.dir/CompositeFactory/RectangleFactory.cpp.i
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/RectangleFactory.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CST276SRS03.dir/CompositeFactory/RectangleFactory.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/RectangleFactory.cpp -o CMakeFiles/CST276SRS03.dir/CompositeFactory/RectangleFactory.cpp.s
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/LineFactory.cpp.o: CMakeFiles/CST276SRS03.dir/flags.make
+CMakeFiles/CST276SRS03.dir/CompositeFactory/LineFactory.cpp.o: ../CompositeFactory/LineFactory.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/CST276SRS03.dir/CompositeFactory/LineFactory.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CST276SRS03.dir/CompositeFactory/LineFactory.cpp.o -c /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/LineFactory.cpp
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/LineFactory.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CST276SRS03.dir/CompositeFactory/LineFactory.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/LineFactory.cpp > CMakeFiles/CST276SRS03.dir/CompositeFactory/LineFactory.cpp.i
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/LineFactory.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CST276SRS03.dir/CompositeFactory/LineFactory.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/LineFactory.cpp -o CMakeFiles/CST276SRS03.dir/CompositeFactory/LineFactory.cpp.s
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/PolygonFactory.cpp.o: CMakeFiles/CST276SRS03.dir/flags.make
+CMakeFiles/CST276SRS03.dir/CompositeFactory/PolygonFactory.cpp.o: ../CompositeFactory/PolygonFactory.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/CST276SRS03.dir/CompositeFactory/PolygonFactory.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CST276SRS03.dir/CompositeFactory/PolygonFactory.cpp.o -c /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/PolygonFactory.cpp
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/PolygonFactory.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CST276SRS03.dir/CompositeFactory/PolygonFactory.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/PolygonFactory.cpp > CMakeFiles/CST276SRS03.dir/CompositeFactory/PolygonFactory.cpp.i
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/PolygonFactory.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CST276SRS03.dir/CompositeFactory/PolygonFactory.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/PolygonFactory.cpp -o CMakeFiles/CST276SRS03.dir/CompositeFactory/PolygonFactory.cpp.s
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/Drawing.cpp.o: CMakeFiles/CST276SRS03.dir/flags.make
+CMakeFiles/CST276SRS03.dir/CompositeFactory/Drawing.cpp.o: ../CompositeFactory/Drawing.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/CST276SRS03.dir/CompositeFactory/Drawing.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CST276SRS03.dir/CompositeFactory/Drawing.cpp.o -c /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Drawing.cpp
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/Drawing.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CST276SRS03.dir/CompositeFactory/Drawing.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Drawing.cpp > CMakeFiles/CST276SRS03.dir/CompositeFactory/Drawing.cpp.i
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/Drawing.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CST276SRS03.dir/CompositeFactory/Drawing.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Drawing.cpp -o CMakeFiles/CST276SRS03.dir/CompositeFactory/Drawing.cpp.s
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/Line.cpp.o: CMakeFiles/CST276SRS03.dir/flags.make
+CMakeFiles/CST276SRS03.dir/CompositeFactory/Line.cpp.o: ../CompositeFactory/Line.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/CST276SRS03.dir/CompositeFactory/Line.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CST276SRS03.dir/CompositeFactory/Line.cpp.o -c /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Line.cpp
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/Line.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CST276SRS03.dir/CompositeFactory/Line.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Line.cpp > CMakeFiles/CST276SRS03.dir/CompositeFactory/Line.cpp.i
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/Line.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CST276SRS03.dir/CompositeFactory/Line.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Line.cpp -o CMakeFiles/CST276SRS03.dir/CompositeFactory/Line.cpp.s
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/CollectionOfShapes.cpp.o: CMakeFiles/CST276SRS03.dir/flags.make
+CMakeFiles/CST276SRS03.dir/CompositeFactory/CollectionOfShapes.cpp.o: ../CompositeFactory/CollectionOfShapes.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/CST276SRS03.dir/CompositeFactory/CollectionOfShapes.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CST276SRS03.dir/CompositeFactory/CollectionOfShapes.cpp.o -c /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/CollectionOfShapes.cpp
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/CollectionOfShapes.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CST276SRS03.dir/CompositeFactory/CollectionOfShapes.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/CollectionOfShapes.cpp > CMakeFiles/CST276SRS03.dir/CompositeFactory/CollectionOfShapes.cpp.i
+
+CMakeFiles/CST276SRS03.dir/CompositeFactory/CollectionOfShapes.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CST276SRS03.dir/CompositeFactory/CollectionOfShapes.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wolf/CLionProjects/CST276SRS03/CompositeFactory/CollectionOfShapes.cpp -o CMakeFiles/CST276SRS03.dir/CompositeFactory/CollectionOfShapes.cpp.s
+
 # Object files for target CST276SRS03
 CST276SRS03_OBJECTS = \
 "CMakeFiles/CST276SRS03.dir/main.cpp.o" \
@@ -156,7 +312,19 @@ CST276SRS03_OBJECTS = \
 "CMakeFiles/CST276SRS03.dir/GoFComposite/Composite.cpp.o" \
 "CMakeFiles/CST276SRS03.dir/GoFComposite/Client.cpp.o" \
 "CMakeFiles/CST276SRS03.dir/GoFFactoryMethod/Creator.cpp.o" \
-"CMakeFiles/CST276SRS03.dir/GoFFactoryMethod/ConcreteCreator.cpp.o"
+"CMakeFiles/CST276SRS03.dir/GoFFactoryMethod/ConcreteCreator.cpp.o" \
+"CMakeFiles/CST276SRS03.dir/CompositeFactory/ShapeFactory.cpp.o" \
+"CMakeFiles/CST276SRS03.dir/CompositeFactory/Shape.cpp.o" \
+"CMakeFiles/CST276SRS03.dir/CompositeFactory/Circle.cpp.o" \
+"CMakeFiles/CST276SRS03.dir/CompositeFactory/Rectangle.cpp.o" \
+"CMakeFiles/CST276SRS03.dir/CompositeFactory/Polygon.cpp.o" \
+"CMakeFiles/CST276SRS03.dir/CompositeFactory/CircleFactory.cpp.o" \
+"CMakeFiles/CST276SRS03.dir/CompositeFactory/RectangleFactory.cpp.o" \
+"CMakeFiles/CST276SRS03.dir/CompositeFactory/LineFactory.cpp.o" \
+"CMakeFiles/CST276SRS03.dir/CompositeFactory/PolygonFactory.cpp.o" \
+"CMakeFiles/CST276SRS03.dir/CompositeFactory/Drawing.cpp.o" \
+"CMakeFiles/CST276SRS03.dir/CompositeFactory/Line.cpp.o" \
+"CMakeFiles/CST276SRS03.dir/CompositeFactory/CollectionOfShapes.cpp.o"
 
 # External object files for target CST276SRS03
 CST276SRS03_EXTERNAL_OBJECTS =
@@ -168,9 +336,21 @@ CST276SRS03: CMakeFiles/CST276SRS03.dir/GoFComposite/Composite.cpp.o
 CST276SRS03: CMakeFiles/CST276SRS03.dir/GoFComposite/Client.cpp.o
 CST276SRS03: CMakeFiles/CST276SRS03.dir/GoFFactoryMethod/Creator.cpp.o
 CST276SRS03: CMakeFiles/CST276SRS03.dir/GoFFactoryMethod/ConcreteCreator.cpp.o
+CST276SRS03: CMakeFiles/CST276SRS03.dir/CompositeFactory/ShapeFactory.cpp.o
+CST276SRS03: CMakeFiles/CST276SRS03.dir/CompositeFactory/Shape.cpp.o
+CST276SRS03: CMakeFiles/CST276SRS03.dir/CompositeFactory/Circle.cpp.o
+CST276SRS03: CMakeFiles/CST276SRS03.dir/CompositeFactory/Rectangle.cpp.o
+CST276SRS03: CMakeFiles/CST276SRS03.dir/CompositeFactory/Polygon.cpp.o
+CST276SRS03: CMakeFiles/CST276SRS03.dir/CompositeFactory/CircleFactory.cpp.o
+CST276SRS03: CMakeFiles/CST276SRS03.dir/CompositeFactory/RectangleFactory.cpp.o
+CST276SRS03: CMakeFiles/CST276SRS03.dir/CompositeFactory/LineFactory.cpp.o
+CST276SRS03: CMakeFiles/CST276SRS03.dir/CompositeFactory/PolygonFactory.cpp.o
+CST276SRS03: CMakeFiles/CST276SRS03.dir/CompositeFactory/Drawing.cpp.o
+CST276SRS03: CMakeFiles/CST276SRS03.dir/CompositeFactory/Line.cpp.o
+CST276SRS03: CMakeFiles/CST276SRS03.dir/CompositeFactory/CollectionOfShapes.cpp.o
 CST276SRS03: CMakeFiles/CST276SRS03.dir/build.make
 CST276SRS03: CMakeFiles/CST276SRS03.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable CST276SRS03"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/wolf/CLionProjects/CST276SRS03/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Linking CXX executable CST276SRS03"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/CST276SRS03.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

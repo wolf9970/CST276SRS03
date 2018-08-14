@@ -2,13 +2,13 @@
 // Created by wolf on 7/30/18.
 //
 
+//GoF Composite Pattern
+
 #ifndef CST276SRS03_COMPONENT_H
 #define CST276SRS03_COMPONENT_H
 
 #include <vector>
 #include <algorithm>
-#include <iostream>
-#include <stdexcept>
 
 class Component
 {

@@ -9,6 +9,7 @@
 
 class ConcreteCreator : public Creator
 {
+public:
     Product* FactoryMethod() override
     {
         return new ConcreteProduct;

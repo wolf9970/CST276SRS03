@@ -84,6 +84,78 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Circle.cpp">
+			<Option target="CST276SRS03"/>
+		</Unit>
+		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Circle.h">
+			<Option target="CST276SRS03"/>
+		</Unit>
+		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/CircleFactory.cpp">
+			<Option target="CST276SRS03"/>
+		</Unit>
+		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/CircleFactory.h">
+			<Option target="CST276SRS03"/>
+		</Unit>
+		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/CollectionOfShapes.cpp">
+			<Option target="CST276SRS03"/>
+		</Unit>
+		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/CollectionOfShapes.h">
+			<Option target="CST276SRS03"/>
+		</Unit>
+		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Drawing.cpp">
+			<Option target="CST276SRS03"/>
+		</Unit>
+		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Drawing.h">
+			<Option target="CST276SRS03"/>
+		</Unit>
+		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Line.cpp">
+			<Option target="CST276SRS03"/>
+		</Unit>
+		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Line.h">
+			<Option target="CST276SRS03"/>
+		</Unit>
+		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/LineFactory.cpp">
+			<Option target="CST276SRS03"/>
+		</Unit>
+		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/LineFactory.h">
+			<Option target="CST276SRS03"/>
+		</Unit>
+		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Polygon.cpp">
+			<Option target="CST276SRS03"/>
+		</Unit>
+		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Polygon.h">
+			<Option target="CST276SRS03"/>
+		</Unit>
+		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/PolygonFactory.cpp">
+			<Option target="CST276SRS03"/>
+		</Unit>
+		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/PolygonFactory.h">
+			<Option target="CST276SRS03"/>
+		</Unit>
+		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Rectangle.cpp">
+			<Option target="CST276SRS03"/>
+		</Unit>
+		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Rectangle.h">
+			<Option target="CST276SRS03"/>
+		</Unit>
+		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/RectangleFactory.cpp">
+			<Option target="CST276SRS03"/>
+		</Unit>
+		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/RectangleFactory.h">
+			<Option target="CST276SRS03"/>
+		</Unit>
+		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Shape.cpp">
+			<Option target="CST276SRS03"/>
+		</Unit>
+		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/Shape.h">
+			<Option target="CST276SRS03"/>
+		</Unit>
+		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/ShapeFactory.cpp">
+			<Option target="CST276SRS03"/>
+		</Unit>
+		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/CompositeFactory/ShapeFactory.h">
+			<Option target="CST276SRS03"/>
+		</Unit>
 		<Unit filename="/home/wolf/CLionProjects/CST276SRS03/GoFComposite/Client.cpp">
 			<Option target="CST276SRS03"/>
 		</Unit>

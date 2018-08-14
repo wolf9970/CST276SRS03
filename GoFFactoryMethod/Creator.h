@@ -2,6 +2,7 @@
 // Created by wolf on 8/4/18.
 //
 // GoF Factory Pattern
+
 #ifndef CST276SRS03_CREATOR_H
 #define CST276SRS03_CREATOR_H
 

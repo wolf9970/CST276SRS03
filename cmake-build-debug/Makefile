@@ -123,6 +123,330 @@ CST276SRS03/fast:
 	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/build
 .PHONY : CST276SRS03/fast
 
+CompositeFactory/Circle.o: CompositeFactory/Circle.cpp.o
+
+.PHONY : CompositeFactory/Circle.o
+
+# target to build an object file
+CompositeFactory/Circle.cpp.o:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/Circle.cpp.o
+.PHONY : CompositeFactory/Circle.cpp.o
+
+CompositeFactory/Circle.i: CompositeFactory/Circle.cpp.i
+
+.PHONY : CompositeFactory/Circle.i
+
+# target to preprocess a source file
+CompositeFactory/Circle.cpp.i:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/Circle.cpp.i
+.PHONY : CompositeFactory/Circle.cpp.i
+
+CompositeFactory/Circle.s: CompositeFactory/Circle.cpp.s
+
+.PHONY : CompositeFactory/Circle.s
+
+# target to generate assembly for a file
+CompositeFactory/Circle.cpp.s:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/Circle.cpp.s
+.PHONY : CompositeFactory/Circle.cpp.s
+
+CompositeFactory/CircleFactory.o: CompositeFactory/CircleFactory.cpp.o
+
+.PHONY : CompositeFactory/CircleFactory.o
+
+# target to build an object file
+CompositeFactory/CircleFactory.cpp.o:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/CircleFactory.cpp.o
+.PHONY : CompositeFactory/CircleFactory.cpp.o
+
+CompositeFactory/CircleFactory.i: CompositeFactory/CircleFactory.cpp.i
+
+.PHONY : CompositeFactory/CircleFactory.i
+
+# target to preprocess a source file
+CompositeFactory/CircleFactory.cpp.i:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/CircleFactory.cpp.i
+.PHONY : CompositeFactory/CircleFactory.cpp.i
+
+CompositeFactory/CircleFactory.s: CompositeFactory/CircleFactory.cpp.s
+
+.PHONY : CompositeFactory/CircleFactory.s
+
+# target to generate assembly for a file
+CompositeFactory/CircleFactory.cpp.s:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/CircleFactory.cpp.s
+.PHONY : CompositeFactory/CircleFactory.cpp.s
+
+CompositeFactory/CollectionOfShapes.o: CompositeFactory/CollectionOfShapes.cpp.o
+
+.PHONY : CompositeFactory/CollectionOfShapes.o
+
+# target to build an object file
+CompositeFactory/CollectionOfShapes.cpp.o:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/CollectionOfShapes.cpp.o
+.PHONY : CompositeFactory/CollectionOfShapes.cpp.o
+
+CompositeFactory/CollectionOfShapes.i: CompositeFactory/CollectionOfShapes.cpp.i
+
+.PHONY : CompositeFactory/CollectionOfShapes.i
+
+# target to preprocess a source file
+CompositeFactory/CollectionOfShapes.cpp.i:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/CollectionOfShapes.cpp.i
+.PHONY : CompositeFactory/CollectionOfShapes.cpp.i
+
+CompositeFactory/CollectionOfShapes.s: CompositeFactory/CollectionOfShapes.cpp.s
+
+.PHONY : CompositeFactory/CollectionOfShapes.s
+
+# target to generate assembly for a file
+CompositeFactory/CollectionOfShapes.cpp.s:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/CollectionOfShapes.cpp.s
+.PHONY : CompositeFactory/CollectionOfShapes.cpp.s
+
+CompositeFactory/Drawing.o: CompositeFactory/Drawing.cpp.o
+
+.PHONY : CompositeFactory/Drawing.o
+
+# target to build an object file
+CompositeFactory/Drawing.cpp.o:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/Drawing.cpp.o
+.PHONY : CompositeFactory/Drawing.cpp.o
+
+CompositeFactory/Drawing.i: CompositeFactory/Drawing.cpp.i
+
+.PHONY : CompositeFactory/Drawing.i
+
+# target to preprocess a source file
+CompositeFactory/Drawing.cpp.i:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/Drawing.cpp.i
+.PHONY : CompositeFactory/Drawing.cpp.i
+
+CompositeFactory/Drawing.s: CompositeFactory/Drawing.cpp.s
+
+.PHONY : CompositeFactory/Drawing.s
+
+# target to generate assembly for a file
+CompositeFactory/Drawing.cpp.s:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/Drawing.cpp.s
+.PHONY : CompositeFactory/Drawing.cpp.s
+
+CompositeFactory/Line.o: CompositeFactory/Line.cpp.o
+
+.PHONY : CompositeFactory/Line.o
+
+# target to build an object file
+CompositeFactory/Line.cpp.o:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/Line.cpp.o
+.PHONY : CompositeFactory/Line.cpp.o
+
+CompositeFactory/Line.i: CompositeFactory/Line.cpp.i
+
+.PHONY : CompositeFactory/Line.i
+
+# target to preprocess a source file
+CompositeFactory/Line.cpp.i:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/Line.cpp.i
+.PHONY : CompositeFactory/Line.cpp.i
+
+CompositeFactory/Line.s: CompositeFactory/Line.cpp.s
+
+.PHONY : CompositeFactory/Line.s
+
+# target to generate assembly for a file
+CompositeFactory/Line.cpp.s:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/Line.cpp.s
+.PHONY : CompositeFactory/Line.cpp.s
+
+CompositeFactory/LineFactory.o: CompositeFactory/LineFactory.cpp.o
+
+.PHONY : CompositeFactory/LineFactory.o
+
+# target to build an object file
+CompositeFactory/LineFactory.cpp.o:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/LineFactory.cpp.o
+.PHONY : CompositeFactory/LineFactory.cpp.o
+
+CompositeFactory/LineFactory.i: CompositeFactory/LineFactory.cpp.i
+
+.PHONY : CompositeFactory/LineFactory.i
+
+# target to preprocess a source file
+CompositeFactory/LineFactory.cpp.i:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/LineFactory.cpp.i
+.PHONY : CompositeFactory/LineFactory.cpp.i
+
+CompositeFactory/LineFactory.s: CompositeFactory/LineFactory.cpp.s
+
+.PHONY : CompositeFactory/LineFactory.s
+
+# target to generate assembly for a file
+CompositeFactory/LineFactory.cpp.s:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/LineFactory.cpp.s
+.PHONY : CompositeFactory/LineFactory.cpp.s
+
+CompositeFactory/Polygon.o: CompositeFactory/Polygon.cpp.o
+
+.PHONY : CompositeFactory/Polygon.o
+
+# target to build an object file
+CompositeFactory/Polygon.cpp.o:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/Polygon.cpp.o
+.PHONY : CompositeFactory/Polygon.cpp.o
+
+CompositeFactory/Polygon.i: CompositeFactory/Polygon.cpp.i
+
+.PHONY : CompositeFactory/Polygon.i
+
+# target to preprocess a source file
+CompositeFactory/Polygon.cpp.i:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/Polygon.cpp.i
+.PHONY : CompositeFactory/Polygon.cpp.i
+
+CompositeFactory/Polygon.s: CompositeFactory/Polygon.cpp.s
+
+.PHONY : CompositeFactory/Polygon.s
+
+# target to generate assembly for a file
+CompositeFactory/Polygon.cpp.s:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/Polygon.cpp.s
+.PHONY : CompositeFactory/Polygon.cpp.s
+
+CompositeFactory/PolygonFactory.o: CompositeFactory/PolygonFactory.cpp.o
+
+.PHONY : CompositeFactory/PolygonFactory.o
+
+# target to build an object file
+CompositeFactory/PolygonFactory.cpp.o:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/PolygonFactory.cpp.o
+.PHONY : CompositeFactory/PolygonFactory.cpp.o
+
+CompositeFactory/PolygonFactory.i: CompositeFactory/PolygonFactory.cpp.i
+
+.PHONY : CompositeFactory/PolygonFactory.i
+
+# target to preprocess a source file
+CompositeFactory/PolygonFactory.cpp.i:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/PolygonFactory.cpp.i
+.PHONY : CompositeFactory/PolygonFactory.cpp.i
+
+CompositeFactory/PolygonFactory.s: CompositeFactory/PolygonFactory.cpp.s
+
+.PHONY : CompositeFactory/PolygonFactory.s
+
+# target to generate assembly for a file
+CompositeFactory/PolygonFactory.cpp.s:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/PolygonFactory.cpp.s
+.PHONY : CompositeFactory/PolygonFactory.cpp.s
+
+CompositeFactory/Rectangle.o: CompositeFactory/Rectangle.cpp.o
+
+.PHONY : CompositeFactory/Rectangle.o
+
+# target to build an object file
+CompositeFactory/Rectangle.cpp.o:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/Rectangle.cpp.o
+.PHONY : CompositeFactory/Rectangle.cpp.o
+
+CompositeFactory/Rectangle.i: CompositeFactory/Rectangle.cpp.i
+
+.PHONY : CompositeFactory/Rectangle.i
+
+# target to preprocess a source file
+CompositeFactory/Rectangle.cpp.i:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/Rectangle.cpp.i
+.PHONY : CompositeFactory/Rectangle.cpp.i
+
+CompositeFactory/Rectangle.s: CompositeFactory/Rectangle.cpp.s
+
+.PHONY : CompositeFactory/Rectangle.s
+
+# target to generate assembly for a file
+CompositeFactory/Rectangle.cpp.s:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/Rectangle.cpp.s
+.PHONY : CompositeFactory/Rectangle.cpp.s
+
+CompositeFactory/RectangleFactory.o: CompositeFactory/RectangleFactory.cpp.o
+
+.PHONY : CompositeFactory/RectangleFactory.o
+
+# target to build an object file
+CompositeFactory/RectangleFactory.cpp.o:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/RectangleFactory.cpp.o
+.PHONY : CompositeFactory/RectangleFactory.cpp.o
+
+CompositeFactory/RectangleFactory.i: CompositeFactory/RectangleFactory.cpp.i
+
+.PHONY : CompositeFactory/RectangleFactory.i
+
+# target to preprocess a source file
+CompositeFactory/RectangleFactory.cpp.i:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/RectangleFactory.cpp.i
+.PHONY : CompositeFactory/RectangleFactory.cpp.i
+
+CompositeFactory/RectangleFactory.s: CompositeFactory/RectangleFactory.cpp.s
+
+.PHONY : CompositeFactory/RectangleFactory.s
+
+# target to generate assembly for a file
+CompositeFactory/RectangleFactory.cpp.s:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/RectangleFactory.cpp.s
+.PHONY : CompositeFactory/RectangleFactory.cpp.s
+
+CompositeFactory/Shape.o: CompositeFactory/Shape.cpp.o
+
+.PHONY : CompositeFactory/Shape.o
+
+# target to build an object file
+CompositeFactory/Shape.cpp.o:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/Shape.cpp.o
+.PHONY : CompositeFactory/Shape.cpp.o
+
+CompositeFactory/Shape.i: CompositeFactory/Shape.cpp.i
+
+.PHONY : CompositeFactory/Shape.i
+
+# target to preprocess a source file
+CompositeFactory/Shape.cpp.i:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/Shape.cpp.i
+.PHONY : CompositeFactory/Shape.cpp.i
+
+CompositeFactory/Shape.s: CompositeFactory/Shape.cpp.s
+
+.PHONY : CompositeFactory/Shape.s
+
+# target to generate assembly for a file
+CompositeFactory/Shape.cpp.s:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/Shape.cpp.s
+.PHONY : CompositeFactory/Shape.cpp.s
+
+CompositeFactory/ShapeFactory.o: CompositeFactory/ShapeFactory.cpp.o
+
+.PHONY : CompositeFactory/ShapeFactory.o
+
+# target to build an object file
+CompositeFactory/ShapeFactory.cpp.o:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/ShapeFactory.cpp.o
+.PHONY : CompositeFactory/ShapeFactory.cpp.o
+
+CompositeFactory/ShapeFactory.i: CompositeFactory/ShapeFactory.cpp.i
+
+.PHONY : CompositeFactory/ShapeFactory.i
+
+# target to preprocess a source file
+CompositeFactory/ShapeFactory.cpp.i:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/ShapeFactory.cpp.i
+.PHONY : CompositeFactory/ShapeFactory.cpp.i
+
+CompositeFactory/ShapeFactory.s: CompositeFactory/ShapeFactory.cpp.s
+
+.PHONY : CompositeFactory/ShapeFactory.s
+
+# target to generate assembly for a file
+CompositeFactory/ShapeFactory.cpp.s:
+	$(MAKE) -f CMakeFiles/CST276SRS03.dir/build.make CMakeFiles/CST276SRS03.dir/CompositeFactory/ShapeFactory.cpp.s
+.PHONY : CompositeFactory/ShapeFactory.cpp.s
+
 GoFComposite/Client.o: GoFComposite/Client.cpp.o
 
 .PHONY : GoFComposite/Client.o
@@ -321,6 +645,42 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... CST276SRS03"
+	@echo "... CompositeFactory/Circle.o"
+	@echo "... CompositeFactory/Circle.i"
+	@echo "... CompositeFactory/Circle.s"
+	@echo "... CompositeFactory/CircleFactory.o"
+	@echo "... CompositeFactory/CircleFactory.i"
+	@echo "... CompositeFactory/CircleFactory.s"
+	@echo "... CompositeFactory/CollectionOfShapes.o"
+	@echo "... CompositeFactory/CollectionOfShapes.i"
+	@echo "... CompositeFactory/CollectionOfShapes.s"
+	@echo "... CompositeFactory/Drawing.o"
+	@echo "... CompositeFactory/Drawing.i"
+	@echo "... CompositeFactory/Drawing.s"
+	@echo "... CompositeFactory/Line.o"
+	@echo "... CompositeFactory/Line.i"
+	@echo "... CompositeFactory/Line.s"
+	@echo "... CompositeFactory/LineFactory.o"
+	@echo "... CompositeFactory/LineFactory.i"
+	@echo "... CompositeFactory/LineFactory.s"
+	@echo "... CompositeFactory/Polygon.o"
+	@echo "... CompositeFactory/Polygon.i"
+	@echo "... CompositeFactory/Polygon.s"
+	@echo "... CompositeFactory/PolygonFactory.o"
+	@echo "... CompositeFactory/PolygonFactory.i"
+	@echo "... CompositeFactory/PolygonFactory.s"
+	@echo "... CompositeFactory/Rectangle.o"
+	@echo "... CompositeFactory/Rectangle.i"
+	@echo "... CompositeFactory/Rectangle.s"
+	@echo "... CompositeFactory/RectangleFactory.o"
+	@echo "... CompositeFactory/RectangleFactory.i"
+	@echo "... CompositeFactory/RectangleFactory.s"
+	@echo "... CompositeFactory/Shape.o"
+	@echo "... CompositeFactory/Shape.i"
+	@echo "... CompositeFactory/Shape.s"
+	@echo "... CompositeFactory/ShapeFactory.o"
+	@echo "... CompositeFactory/ShapeFactory.i"
+	@echo "... CompositeFactory/ShapeFactory.s"
 	@echo "... GoFComposite/Client.o"
 	@echo "... GoFComposite/Client.i"
 	@echo "... GoFComposite/Client.s"

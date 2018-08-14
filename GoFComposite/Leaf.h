@@ -14,7 +14,7 @@ public:
 
     void Operation() override
     {
-        std::cout << "Leaf operation" << std::endl;
+
     }
 
     void Add(Component* component) override {}
